@@ -1,0 +1,8 @@
+{"continents":
+[{"id_continents":1, "name":"Europe"},
+ {"id_continents":2, "name":"Asia"},
+ {"id_continents":3, "name":"North America"},
+ {"id_continents":4, "name":"South America"},
+ {"id_continents":5, "name":"Africa"},
+ {"id_continents":6, "name":"Oceania"},
+ {"id_continents":7, "name":"Antarctica"}]}
